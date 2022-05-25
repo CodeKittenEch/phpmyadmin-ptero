@@ -1,4 +1,6 @@
+commands 
 sudo apt update && sudo apt install phpmyadmin
+
 afterall when webserver selection tap `tab` button and navigate to ok button select no webserver and enter 
 
 ![image](https://user-images.githubusercontent.com/85484107/170306694-f7de2915-8d20-4bf9-b8da-05e26b8c7946.png)
