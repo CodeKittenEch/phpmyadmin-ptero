@@ -1,4 +1,9 @@
+Simple Tutorial Text Commands (Script) For Newbies To Install Phpmyadmin With the Combination of Pterodactyl Game Panel And Nginx Webserver
+And Ubuntu 20.04 Your Phpmyadmin Will be Visible at http://yourip/phpmyadmin or https://yourdomain.com/phpmyadmin
+
 commands 
+
+
 sudo apt update && sudo apt install phpmyadmin
 
 afterall when webserver selection tap `tab` button and navigate to ok button select no webserver and enter 
