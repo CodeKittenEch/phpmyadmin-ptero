@@ -23,3 +23,7 @@ sudo ln -s /usr/share/phpmyadmin /var/www/pterodactyl/public
 thank you 
 
 credits for me : lol : 
+
+
+Support 
+https://discord.gg/dHfrAVXX
